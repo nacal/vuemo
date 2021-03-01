@@ -1,4 +1,7 @@
-# portfolio
+# Nuxt.js + Tailwind CSS
+
+## Overview
+Nuxt.jsとTailwindを使ってサクッとプロジェクトを作成したいときに利用するテンプレート
 
 ## Build Setup
 
